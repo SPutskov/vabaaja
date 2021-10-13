@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+</style>
+<body>
+    
+<h1>Sergei Putškov Tudengikood:213474IACB</h1>
+
+<table style="width:100%">
+<h1>Mis tasemel mulle meeldib asju teha?</h1>
+
+<h4>1.Jalutada</h4>
+<h4>2.Kohtuda sõpradega</h4>
+<h4>3.Käia jõusaalis</h4>
+<h4>4.Koristada kodus</h4>
+<h4>5.Teha kodutööd</h4>
+<h4><p><a href="https://www.youtube.com">6.Vaadata Youtubi</a></p></h4>
+
+<img src="./jalutamine.jpg" alt="Siia peaks tulema jalutamine pilt." > 
+<h2>See on pealinnade ja riikide taabel</h2>
+<table>
+<table style="width:100%">
+<tr>
+    <td>Pealinn</td>
+    <td>Riik</td 
+  </tr>
+  <tr>
+  <td>Helsinki</td>
+  <td>Soome</td>
+  </tr>
+   <tr>
+  <td>Stockholm</td>
+  <td>Rootsi</td>
+  </tr>
+   <tr>
+  <td>Moskva</td>
+  <td>Vene</td>
+   <tr>
+  <td>Tallinn</td>
+  <td>Eesti</td>
+   <tr>
+  <td>Minsk</td>
+  <td>Valgevene</td>
+  </tr>
+  </tr>
+  </tr>
+</table>
+
+<html>
+<body>
